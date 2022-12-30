@@ -1,0 +1,27 @@
+#orangehead{
+    margin:0px;
+    background-color:orange;
+    width:100%;
+    color:white;
+    padding:10px;
+}
+body{
+    background-size: cover;
+}
+#no_obj, #status, #btnstr{
+    font-size:18px;
+}
+#footer_bottom{
+    bottom:0;
+    position:fixed;
+    text-align: center;
+    width:100%;
+    background-color: white;
+    font-size: 20px;
+}
+canvas{
+    border:2px white ridge;
+    box-shadow: whitesmoke 5px 5px;
+    border-radius: 20px;
+    margin-top:120px;
+}
